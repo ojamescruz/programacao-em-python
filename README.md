@@ -1,2 +1,2 @@
-# programa-o-em-python
+# programacao-em-python
 Atividade 1 - Fluxograma 
